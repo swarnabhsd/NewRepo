@@ -1,1 +1,2 @@
 This is the new text document
+Adding a new line in main branch in git in newtext
