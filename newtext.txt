@@ -1,2 +1,4 @@
 This is the new text document
 Adding a new line in main branch in git.
+=================
+Adding a new line in newtext to check merge-commit.
