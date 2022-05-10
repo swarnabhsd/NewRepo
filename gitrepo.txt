@@ -7,3 +7,5 @@ Added one more line.
 ===========================================
 Adding a line to test merge-commit.
 Added a new line again.
+adding a fourth line here.
+added a fifth line here.
