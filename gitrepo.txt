@@ -3,9 +3,11 @@ a new line to diff between working and ---adding a line for merge---remote repo
 adding a third line to git repo
 ================
 Adding lines so that we can practise merging.
-Added one more line.
+Added one more line. 
 ===========================================
 Adding a line to test merge-commit.
 Added a new line again.
-adding a fourth line here.
-added a fifth line here.
+=======
+Adding a line to create conflicts in merge.
+this is the second such line.
+this is the new fourth line.
