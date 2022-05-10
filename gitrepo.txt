@@ -1,3 +1,6 @@
 this is a file for pushing to git repo
-a new line to diff between working and remote repo
+a new line to diff between working and ---adding a line for merge---remote repo
 adding a third line to git repo
+================
+Adding lines so that we can practise merging.
+Added one more line.
