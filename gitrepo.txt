@@ -12,4 +12,6 @@ Adding a line to create conflicts in merge.
 this is the second such line.
 this is the new fourth line.
 =================================================
+added another line from github in gitrepo for conflict.
 Adding a new line here to check for rebase example.Added a new line after rebase.
+Adding a new line in gitrepo from github.
