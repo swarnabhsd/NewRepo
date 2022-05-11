@@ -11,3 +11,5 @@ Added a new line again.
 Adding a line to create conflicts in merge.
 this is the second such line.
 this is the new fourth line.
+=================================================
+Adding a new line here to check for rebase example.
