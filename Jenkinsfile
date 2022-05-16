@@ -18,7 +18,7 @@ pipeline{
     }
 	stage ("Email Build status") {
 	  steps {
-	    mail bcc: '', body: '', cc: '', from: '', replyTo: '', subject: 'Test mail from Jenkins pipeline', to: 'swarnabhd@gmail.com'
+	    mail bcc: '', body: 'mail body', cc: '', from: '', replyTo: '', subject: 'Test mail from Jenkins pipeline', to: 'swarnabhd@gmail.com'
 		}
 		}
   }
